@@ -5,7 +5,8 @@ This repository highlights core systems; many additional modular systems for por
 Included Systems
 - **Save/Load System** – Player, inventory, and door/drawer state management with Auto Save and XOR-encrypted JSON support.  
 - **Customer AI Table Seating** – NavMesh-driven AI customers with dynamic table and seat allocation.  
-- **Dust Cleanup System** – Interactive dirt spawning and cleaning mechanics with customizable parameters.  
+- **Dust Cleanup System** – Interactive dirt spawning and cleaning mechanics with customizable parameters.
+- **Drink Shelf System** – Modular item placement system with box-based quantity management, identity tracking, and reversible placement mechanics.
 - **Locked Door System** – Key-based doors with smooth animations, audio feedback, and Save/Load compatibility.  
 - **Day & Night Cycle System** – Time-based environmental changes, lighting adjustments, and cycle management.  
 - **FPS Character Controller** – First-person player movement, camera, and interaction controls.
